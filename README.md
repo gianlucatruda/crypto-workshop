@@ -1,4 +1,4 @@
-# Linum Labs Crypto Course
+# Linum Labs Crypto Workshop
 
 ## Disclaimer
 These are my personal notes and files from attending the sessions. They are nowhere near perfect transcriptions of the slides and aren't trying to be. The actual slides are protected IP, but these notes are derivate content that is free to share and modify. I haven't captured everything discussed and, because we jump around a lot, have sections missing. I'm also interested in specific aspects of Crypto more than others and my notes reflect that. I'll try my best to take notes at all sessions that have a theoretical component, but I can't make any promises. I also make no promises about the accuracy or quality of my notes, but feel free to use them as you see fit. 
