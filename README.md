@@ -6,11 +6,12 @@ These are my personal notes and files from attending the sessions. They are nowh
 **If you would like to fix or add to these documents, please see the [Contributing](#contributing) section at the end.**
 
 # Notes
-1. [Session 1: 18 August 2018](/notes/01.md)
-2. [Session 2: 25 August 2018](/notes/02.md)
+1. [Session 1: 18 August 2018](/notes/01.md): Introduction to Crypto and Blockchain, Ethereum, EVM, DApps
+2. [Session 2: 25 August 2018](/notes/02.md): CryptoZombies and PetShop tutorials
+3. [Session 3: 01 September 2018](/notes/03.md): Token Standards and Curation Markets
 
 ## Thanks
-Thank you to the CryptoSoc committee for organising this awesome opportunity for us. The least I can do is plug their [Github page](https://github.com/CryptoSoc) and shill their [super-dope coin](https://github.com/CryptoSoc/CryptoSocCoin). 
+Thank you to the CryptoSoc committee for organising this awesome opportunity for us. The least I can do is plug their [Github page](https://github.com/CryptoSoc) and shill their [super-dope coin](https://github.com/CryptoSoc/CryptoSocCoin). Thanks also to the good folks at [Linum Labs](https://linumlabs.com/) for the sessions.
 
 ---
 # Contributing
